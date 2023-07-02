@@ -3,7 +3,8 @@ import React from 'react'
 function Footer() {
   return (
     <div>
-      footer
+      <div>Copyrights reserved by Dheeraj dileep</div>
+      <div></div>
     </div>
   )
 }
